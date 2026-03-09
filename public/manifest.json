@@ -1,0 +1,23 @@
+{
+  "name": "Q Nirvana Hospital Management",
+  "short_name": "Q Nirvana",
+  "description": "Next-generation Hospital Management System with Live Queue Tracking and Emergency Dispatch.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a1628",
+  "theme_color": "#0f2044",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
